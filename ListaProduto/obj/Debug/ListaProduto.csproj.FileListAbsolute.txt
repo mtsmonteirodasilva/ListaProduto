@@ -1,0 +1,11 @@
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\obj\Debug\ListaProduto.csproj.AssemblyReference.cache
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\obj\Debug\ListaProduto.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\obj\Debug\ListaProduto.Cadastro.resources
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\obj\Debug\ListaProduto.Properties.Resources.resources
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\obj\Debug\ListaProduto.csproj.GenerateResource.cache
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\obj\Debug\ListaProduto.csproj.CoreCompileInputs.cache
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\bin\Debug\ListaProduto.exe.config
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\bin\Debug\ListaProduto.exe
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\bin\Debug\ListaProduto.pdb
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\obj\Debug\ListaProduto.exe
+C:\Users\2022102020080\source\repos\ListaProduto\ListaProduto\obj\Debug\ListaProduto.pdb
